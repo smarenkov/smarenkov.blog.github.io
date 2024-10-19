@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://smarenkov.blog.github.io"
+baseurl = "https://smarenkov.blog.github.io/blog"
 languageCode = "en-us"
 title = "Shimon Marenkov"
 
